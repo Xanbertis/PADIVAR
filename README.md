@@ -22,6 +22,7 @@ Dans le cadre de ses formations, la fondation Maison de l'Homme et des Sciences 
 | F013 | Défauts permanents | Le système permettra à l'utilisateur de consulter l'historique de ses erreurs avec le Mode 10. | / |
 | F014 | Connectivité | Le système permettra à l'utilisateur de mettre ses données de diagnostique en ligne ET d'y accéder ultérieurement. | / |
 | F015 | Visualisation des données | Le système permettra à l'utilisateur de visualiser d'un seul coup d'œil toutes les informations récoltées par le interrogations OBD. | / |
+| F016 | Autodiagnostique systèmes divers | Le système permettra à l'utilisateur de consulter l'historique de diagnostique des systèmes auxilliaires prévus par le Mode 8 | / |
 
 
 ## Ressources
